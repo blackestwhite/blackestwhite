@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey, I'm Mahdi 👋
+
+🇮🇷 Living In Iran
+
+### What I'm currently doing?
+researching about cryptography & distributed computing
+
+### Find me elsewhere:
+[website](https://mahdi.codes)
+[Instagram](https://instagram.com/mahdi.codes)
+[Dribbble](https://dribbble.com/blackestwhite)
 
 <!--
 **blackestwhite/blackestwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
