@@ -6,7 +6,7 @@
 researching about cryptography & distributed computing
 
 ### Find me elsewhere:
-[website](https://mahdi.codes) <br />
+[website](https://blackestwhite.github.io) <br />
 [Instagram](https://instagram.com/mahdi.codes) <br />
 [Dribbble](https://dribbble.com/blackestwhite) <br />
 
