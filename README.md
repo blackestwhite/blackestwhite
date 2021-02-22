@@ -1,4 +1,4 @@
-### Hey, I'm Mahdi 👋
+### Hey, I'm Mehrdad 👋
  
 ### Find me elsewhere:
 [website](https://blackestwhite.github.io) <br />
