@@ -1,6 +1,11 @@
-### Hey, I'm Mahdi 👋
+### Hey, I'm Mahdi Akbari👋
  
 ### Find me elsewhere:
-[website](https://blackestwhite.github.io) <br />
+[Website](https://blackestwhite.github.io) <br />
 [Instagram](https://instagram.com/itsblackestwhite) <br />
-[Dribbble](https://dribbble.com/blackestwhite) <br />
+[Telegram](https://t.me/blackestwhite) <br />
+[Twitter](https://twitter.com/byblackestwhite) <br />
+[LinkedIn](https://www.linkedin.com/in/blackestwhite/) <br />
+
+<p> diploma in Mathematics and Physics (theoretical branch) </p>
+<p> studying CE/SE (self-taught/academic) </p>
