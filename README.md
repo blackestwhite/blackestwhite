@@ -1,4 +1,4 @@
-### Hey, I'm Mahdi Akbari👋
+### Hey, I'm Mahdi Akbari 👋
  
 ### Find me elsewhere:
 [Website](https://blackestwhite.github.io) <br />
