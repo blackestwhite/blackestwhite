@@ -8,4 +8,4 @@
 [LinkedIn](https://www.linkedin.com/in/blackestwhite/) <br />
 
 <p> diploma in Mathematics and Physics (theoretical branch) </p>
-<p> studying CE/SE (self-taught/academic) </p>
+<p> studying CS/SE (self-taught/academic) </p>
