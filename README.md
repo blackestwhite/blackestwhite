@@ -1,4 +1,4 @@
-### Hey, I'm Mahdi Akbari 👋
+### Hey, this is Mahdi Akbari
  
 ### Find me elsewhere:
 [Website](https://blackestwhite.github.io) <br />
@@ -7,5 +7,5 @@
 [Twitter](https://twitter.com/byblackestwhite) <br />
 [LinkedIn](https://www.linkedin.com/in/blackestwhite/) <br />
 
-<p> diploma in Mathematics and Physics (theoretical branch) </p>
-<p> studying CS/SE (self-taught/academic) </p>
+<p> Mathematics and Physics diploma (theoretical branch) </p>
+<p> studying CS </p>
