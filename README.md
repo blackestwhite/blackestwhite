@@ -1,7 +1,7 @@
 ### Hey, this is Mahdi Akbari
  
 ### Find me elsewhere:
-[Website](https://blackestwhite.github.io) <br />
+[Blog](https://blackestwhite.github.io) <br />
 [Instagram](https://instagram.com/itsblackestwhite) <br />
 [Telegram](https://t.me/blackestwhite) <br />
 [Twitter](https://twitter.com/byblackestwhite) <br />
