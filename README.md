@@ -2,7 +2,7 @@
  
 ### Find me elsewhere:
 [Blog](https://blackestwhite.github.io) <br />
-[Instagram](https://instagram.com/itsblackestwhite) <br />
+[Instagram](https://instagram.com/blackestwhite.eth) <br />
 [Telegram](https://t.me/blackestwhite) <br />
 [Twitter](https://twitter.com/byblackestwhite) <br />
 [LinkedIn](https://www.linkedin.com/in/blackestwhite/) <br />
