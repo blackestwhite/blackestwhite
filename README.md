@@ -7,5 +7,5 @@
 [Twitter](https://twitter.com/byblackestwhite) <br />
 [LinkedIn](https://www.linkedin.com/in/blackestwhite/) <br />
 
-<p> Mathematics and Physics diploma (theoretical branch) </p>
+<p> Mathematics diploma </p>
 <p> studying CS </p>
